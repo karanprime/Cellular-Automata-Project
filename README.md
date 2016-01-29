@@ -21,19 +21,6 @@ RandGen.java is our own implementation of a random number generator using elemen
 Randgen is a random number generator from scratch using rule 30.
 Arduino .ino files are in the respective arduino folders. arduinoCodeRing uses an led ring to represent each state of the cellular automata. arduinoGameOfLife is an led matrix for game of life.
 
-The main java applet is ca.java
-It has 4 modes: 1. Game of Life
-                2. Spiral Wave
-                3. Elementary Cellular Automata
-                4. Comparison
-
-Note about Mode 3: 
-Set size by changing column size
-Using rule 90 with size 64 will lead to disappering sierpinsky triangle.
-Play around with both kinds of boundaries. 
-
-RandGen.java is our own implementation of a random number generator using elementary CA rule 30, run it in terminal.
-
 The programs in folders are arduino programs, they might be VERY buggy.
 
 Have fun,
